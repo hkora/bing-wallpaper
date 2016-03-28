@@ -9,4 +9,4 @@ How to use?
 -----------
 Use `crontab` to run the scripts regularly. To run it at 10 Am everyday like this: 
 
-    0 10 * * * bash $HOME/Pictures/bing_wallpaper.sh > /tmp/bing_wallpaper.ouput 2>&1
+    0 10 * * * bash $HOME/Pictures/bing-wallpaper.sh > /tmp/bing_wallpaper.ouput 2>&1
